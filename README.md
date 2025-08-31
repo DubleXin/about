@@ -18,6 +18,11 @@ I work with both frontend and backend technologies, building complete solutions 
 
 ## Projects  
 
+### CapstoneProject3  
+CapstoneProject3 is a full-stack web application demonstrating server-side development with Node.js and Express, dynamic page rendering with EJS, and interactive frontend features using HTML, CSS, and jQuery.  
+[Demo](#) | [Repository](https://github.com/DubleXin/CapstoneProject3)  
+**Stack:** Node.js, Express, EJS, HTML, CSS, jQuery  
+
 ---
 ## Contact  
 - Email: oleksandrhrechuk@gmail.com  
