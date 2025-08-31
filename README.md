@@ -24,7 +24,7 @@ CapstoneProject3 is a full-stack web application demonstrating server-side devel
 [Demo](#) | [Repository](https://github.com/DubleXin/CapstoneProject3)  
 **Stack:** Node.js, Express, EJS, HTML, CSS, jQuery  
 
-## Note App 
+### Note App 
 Note App is a frontend note-taking application built with React, TypeScript, and Material UI. Users can register, create folders and workspaces, add notes, and organize them within workspaces.  
 The project is currently **in development**.  
 [Demo](#) | [Repository](https://github.com/DubleXin/noteAppPet) 
